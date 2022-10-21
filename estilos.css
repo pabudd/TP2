@@ -1,0 +1,11 @@
+#titulo {color: grey;text-align: center;text-decoration: underline;}
+.sub {text-align: center;text-decoration: underline;}
+.subt {text-align: center;text-decoration: underline;}
+.contenido  {font-size: 1.5em}
+.nuevos {font-style: italic;text-align: left;;}
+.nuevo {font-style: italic;text-align: left;;}
+.cuerpo { text-align: left;}
+h1, h2, h3 {
+  background-image: url("imagenes/bandera.jpg"); width: auto;
+}
+body { background-color: #E0ECFF; }
